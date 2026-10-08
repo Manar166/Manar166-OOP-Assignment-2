@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Simulation\\OOP\\Assignment 2\\Manar166-OOP-Assignment-2\\SRP\\src\\SrpLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B918C29E-3C19-43DD-8647-4EFB299FCE87}|SrpLab\\SrpLab.csproj|d:\\simulation\\oop\\assignment 2\\manar166-oop-assignment-2\\srp\\src\\srplab\\srplab\\supportticket\\supporttickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B918C29E-3C19-43DD-8647-4EFB299FCE87}|SrpLab\\SrpLab.csproj|solutionrelative:srplab\\supportticket\\supporttickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B918C29E-3C19-43DD-8647-4EFB299FCE87}|SrpLab\\SrpLab.csproj|d:\\simulation\\oop\\assignment 2\\manar166-oop-assignment-2\\srp\\src\\srplab\\srplab\\supportticket\\slacalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B918C29E-3C19-43DD-8647-4EFB299FCE87}|SrpLab\\SrpLab.csproj|solutionrelative:srplab\\supportticket\\slacalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B918C29E-3C19-43DD-8647-4EFB299FCE87}|SrpLab\\SrpLab.csproj|d:\\simulation\\oop\\assignment 2\\manar166-oop-assignment-2\\srp\\src\\srplab\\srplab\\supportticket\\prioritycalculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B918C29E-3C19-43DD-8647-4EFB299FCE87}|SrpLab\\SrpLab.csproj|solutionrelative:srplab\\supportticket\\prioritycalculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0ABE419-93DC-4859-8C5B-07FE78219C33}|SrpLab.Runner\\SrpLab.Runner.csproj|d:\\simulation\\oop\\assignment 2\\manar166-oop-assignment-2\\srp\\src\\srplab\\srplab.runner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0ABE419-93DC-4859-8C5B-07FE78219C33}|SrpLab.Runner\\SrpLab.Runner.csproj|solutionrelative:srplab.runner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B918C29E-3C19-43DD-8647-4EFB299FCE87}|SrpLab\\SrpLab.csproj|d:\\simulation\\oop\\assignment 2\\manar166-oop-assignment-2\\srp\\src\\srplab\\srplab\\checkoutbasket\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B918C29E-3C19-43DD-8647-4EFB299FCE87}|SrpLab\\SrpLab.csproj|solutionrelative:srplab\\checkoutbasket\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B918C29E-3C19-43DD-8647-4EFB299FCE87}|SrpLab\\SrpLab.csproj|d:\\simulation\\oop\\assignment 2\\manar166-oop-assignment-2\\srp\\src\\srplab\\srplab\\checkoutbasket\\checkoutcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B918C29E-3C19-43DD-8647-4EFB299FCE87}|SrpLab\\SrpLab.csproj|solutionrelative:srplab\\checkoutbasket\\checkoutcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B918C29E-3C19-43DD-8647-4EFB299FCE87}|SrpLab\\SrpLab.csproj|d:\\simulation\\oop\\assignment 2\\manar166-oop-assignment-2\\srp\\src\\srplab\\srplab\\checkoutbasket\\gift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B918C29E-3C19-43DD-8647-4EFB299FCE87}|SrpLab\\SrpLab.csproj|solutionrelative:srplab\\checkoutbasket\\gift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B918C29E-3C19-43DD-8647-4EFB299FCE87}|SrpLab\\SrpLab.csproj|d:\\simulation\\oop\\assignment 2\\manar166-oop-assignment-2\\srp\\src\\srplab\\srplab\\checkoutbasket\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B918C29E-3C19-43DD-8647-4EFB299FCE87}|SrpLab\\SrpLab.csproj|solutionrelative:srplab\\checkoutbasket\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B918C29E-3C19-43DD-8647-4EFB299FCE87}|SrpLab\\SrpLab.csproj|d:\\simulation\\oop\\assignment 2\\manar166-oop-assignment-2\\srp\\src\\srplab\\srplab\\checkoutbasket\\coupondiscountcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B918C29E-3C19-43DD-8647-4EFB299FCE87}|SrpLab\\SrpLab.csproj|solutionrelative:srplab\\checkoutbasket\\coupondiscountcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B918C29E-3C19-43DD-8647-4EFB299FCE87}|SrpLab\\SrpLab.csproj|d:\\simulation\\oop\\assignment 2\\manar166-oop-assignment-2\\srp\\src\\srplab\\srplab\\wardboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B918C29E-3C19-43DD-8647-4EFB299FCE87}|SrpLab\\SrpLab.csproj|solutionrelative:srplab\\wardboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B918C29E-3C19-43DD-8647-4EFB299FCE87}|SrpLab\\SrpLab.csproj|d:\\simulation\\oop\\assignment 2\\manar166-oop-assignment-2\\srp\\src\\srplab\\srplab\\srplab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B918C29E-3C19-43DD-8647-4EFB299FCE87}|SrpLab\\SrpLab.csproj|solutionrelative:srplab\\srplab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B918C29E-3C19-43DD-8647-4EFB299FCE87}|SrpLab\\SrpLab.csproj|d:\\simulation\\oop\\assignment 2\\manar166-oop-assignment-2\\srp\\src\\srplab\\srplab\\handoffnotebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B918C29E-3C19-43DD-8647-4EFB299FCE87}|SrpLab\\SrpLab.csproj|solutionrelative:srplab\\handoffnotebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B918C29E-3C19-43DD-8647-4EFB299FCE87}|SrpLab\\SrpLab.csproj|d:\\simulation\\oop\\assignment 2\\manar166-oop-assignment-2\\srp\\src\\srplab\\srplab\\pagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B918C29E-3C19-43DD-8647-4EFB299FCE87}|SrpLab\\SrpLab.csproj|solutionrelative:srplab\\pagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B918C29E-3C19-43DD-8647-4EFB299FCE87}|SrpLab\\SrpLab.csproj|d:\\simulation\\oop\\assignment 2\\manar166-oop-assignment-2\\srp\\src\\srplab\\srplab\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B918C29E-3C19-43DD-8647-4EFB299FCE87}|SrpLab\\SrpLab.csproj|solutionrelative:srplab\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PriorityCalculate.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 2\\Manar166-OOP-Assignment-2\\SRP\\src\\SrpLab\\SrpLab\\SupportTicket\\PriorityCalculate.cs",
+              "RelativeDocumentMoniker": "SrpLab\\SupportTicket\\PriorityCalculate.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 2\\Manar166-OOP-Assignment-2\\SRP\\src\\SrpLab\\SrpLab\\SupportTicket\\PriorityCalculate.cs*",
+              "RelativeToolTip": "SrpLab\\SupportTicket\\PriorityCalculate.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T19:04:30.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CheckoutCalculator.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 2\\Manar166-OOP-Assignment-2\\SRP\\src\\SrpLab\\SrpLab\\CheckoutBasket\\CheckoutCalculator.cs",
+              "RelativeDocumentMoniker": "SrpLab\\CheckoutBasket\\CheckoutCalculator.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 2\\Manar166-OOP-Assignment-2\\SRP\\src\\SrpLab\\SrpLab\\CheckoutBasket\\CheckoutCalculator.cs",
+              "RelativeToolTip": "SrpLab\\CheckoutBasket\\CheckoutCalculator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAxwBMAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T18:03:55.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SupportTickets.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 2\\Manar166-OOP-Assignment-2\\SRP\\src\\SrpLab\\SrpLab\\SupportTicket\\SupportTickets.cs",
+              "RelativeDocumentMoniker": "SrpLab\\SupportTicket\\SupportTickets.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 2\\Manar166-OOP-Assignment-2\\SRP\\src\\SrpLab\\SrpLab\\SupportTicket\\SupportTickets.cs*",
+              "RelativeToolTip": "SrpLab\\SupportTicket\\SupportTickets.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T17:56:48.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SlaCalculator.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 2\\Manar166-OOP-Assignment-2\\SRP\\src\\SrpLab\\SrpLab\\SupportTicket\\SlaCalculator.cs",
+              "RelativeDocumentMoniker": "SrpLab\\SupportTicket\\SlaCalculator.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 2\\Manar166-OOP-Assignment-2\\SRP\\src\\SrpLab\\SrpLab\\SupportTicket\\SlaCalculator.cs*",
+              "RelativeToolTip": "SrpLab\\SupportTicket\\SlaCalculator.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T17:54:59.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Gift.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 2\\Manar166-OOP-Assignment-2\\SRP\\src\\SrpLab\\SrpLab\\CheckoutBasket\\Gift.cs",
+              "RelativeDocumentMoniker": "SrpLab\\CheckoutBasket\\Gift.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 2\\Manar166-OOP-Assignment-2\\SRP\\src\\SrpLab\\SrpLab\\CheckoutBasket\\Gift.cs",
+              "RelativeToolTip": "SrpLab\\CheckoutBasket\\Gift.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBAAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T15:55:13.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 2\\Manar166-OOP-Assignment-2\\SRP\\src\\SrpLab\\SrpLab\\CheckoutBasket\\Payment.cs",
+              "RelativeDocumentMoniker": "SrpLab\\CheckoutBasket\\Payment.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 2\\Manar166-OOP-Assignment-2\\SRP\\src\\SrpLab\\SrpLab\\CheckoutBasket\\Payment.cs",
+              "RelativeToolTip": "SrpLab\\CheckoutBasket\\Payment.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T15:46:15.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Checkout.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 2\\Manar166-OOP-Assignment-2\\SRP\\src\\SrpLab\\SrpLab\\CheckoutBasket\\Checkout.cs",
+              "RelativeDocumentMoniker": "SrpLab\\CheckoutBasket\\Checkout.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 2\\Manar166-OOP-Assignment-2\\SRP\\src\\SrpLab\\SrpLab\\CheckoutBasket\\Checkout.cs",
+              "RelativeToolTip": "SrpLab\\CheckoutBasket\\Checkout.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T15:42:12.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SrpLab",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 2\\Manar166-OOP-Assignment-2\\SRP\\src\\SrpLab\\SrpLab\\SrpLab.csproj",
+              "RelativeDocumentMoniker": "SrpLab\\SrpLab.csproj",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 2\\Manar166-OOP-Assignment-2\\SRP\\src\\SrpLab\\SrpLab\\SrpLab.csproj",
+              "RelativeToolTip": "SrpLab\\SrpLab.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-05T15:40:10.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 2\\Manar166-OOP-Assignment-2\\SRP\\src\\SrpLab\\SrpLab.Runner\\Program.cs",
+              "RelativeDocumentMoniker": "SrpLab.Runner\\Program.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 2\\Manar166-OOP-Assignment-2\\SRP\\src\\SrpLab\\SrpLab.Runner\\Program.cs",
+              "RelativeToolTip": "SrpLab.Runner\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T14:30:10.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CouponDiscountCalculator.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 2\\Manar166-OOP-Assignment-2\\SRP\\src\\SrpLab\\SrpLab\\CheckoutBasket\\CouponDiscountCalculator.cs",
+              "RelativeDocumentMoniker": "SrpLab\\CheckoutBasket\\CouponDiscountCalculator.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 2\\Manar166-OOP-Assignment-2\\SRP\\src\\SrpLab\\SrpLab\\CheckoutBasket\\CouponDiscountCalculator.cs",
+              "RelativeToolTip": "SrpLab\\CheckoutBasket\\CouponDiscountCalculator.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAlwA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T15:40:19.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WardBoard.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 2\\Manar166-OOP-Assignment-2\\SRP\\src\\SrpLab\\SrpLab\\WardBoard.cs",
+              "RelativeDocumentMoniker": "SrpLab\\WardBoard.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 2\\Manar166-OOP-Assignment-2\\SRP\\src\\SrpLab\\SrpLab\\WardBoard.cs",
+              "RelativeToolTip": "SrpLab\\WardBoard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T14:12:15.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HandoffNoteBuilder.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 2\\Manar166-OOP-Assignment-2\\SRP\\src\\SrpLab\\SrpLab\\HandoffNoteBuilder.cs",
+              "RelativeDocumentMoniker": "SrpLab\\HandoffNoteBuilder.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 2\\Manar166-OOP-Assignment-2\\SRP\\src\\SrpLab\\SrpLab\\HandoffNoteBuilder.cs",
+              "RelativeToolTip": "SrpLab\\HandoffNoteBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T14:28:08.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PagerService.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 2\\Manar166-OOP-Assignment-2\\SRP\\src\\SrpLab\\SrpLab\\PagerService.cs",
+              "RelativeDocumentMoniker": "SrpLab\\PagerService.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 2\\Manar166-OOP-Assignment-2\\SRP\\src\\SrpLab\\SrpLab\\PagerService.cs",
+              "RelativeToolTip": "SrpLab\\PagerService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T14:20:34.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 2\\Manar166-OOP-Assignment-2\\SRP\\src\\SrpLab\\SrpLab\\Class1.cs",
+              "RelativeDocumentMoniker": "SrpLab\\Class1.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 2\\Manar166-OOP-Assignment-2\\SRP\\src\\SrpLab\\SrpLab\\Class1.cs",
+              "RelativeToolTip": "SrpLab\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T14:11:46.688Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

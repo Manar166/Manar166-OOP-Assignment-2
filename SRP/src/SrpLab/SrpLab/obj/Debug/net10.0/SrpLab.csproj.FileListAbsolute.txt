@@ -1,0 +1,13 @@
+D:\Simulation\OOP\Assignment 2\Manar166-OOP-Assignment-2\SRP\src\SrpLab\SrpLab\bin\Debug\net10.0\SrpLab.deps.json
+D:\Simulation\OOP\Assignment 2\Manar166-OOP-Assignment-2\SRP\src\SrpLab\SrpLab\bin\Debug\net10.0\SrpLab.dll
+D:\Simulation\OOP\Assignment 2\Manar166-OOP-Assignment-2\SRP\src\SrpLab\SrpLab\bin\Debug\net10.0\SrpLab.pdb
+D:\Simulation\OOP\Assignment 2\Manar166-OOP-Assignment-2\SRP\src\SrpLab\SrpLab\obj\Debug\net10.0\SrpLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Simulation\OOP\Assignment 2\Manar166-OOP-Assignment-2\SRP\src\SrpLab\SrpLab\obj\Debug\net10.0\SrpLab.AssemblyInfoInputs.cache
+D:\Simulation\OOP\Assignment 2\Manar166-OOP-Assignment-2\SRP\src\SrpLab\SrpLab\obj\Debug\net10.0\SrpLab.AssemblyInfo.cs
+D:\Simulation\OOP\Assignment 2\Manar166-OOP-Assignment-2\SRP\src\SrpLab\SrpLab\obj\Debug\net10.0\SrpLab.csproj.CoreCompileInputs.cache
+D:\Simulation\OOP\Assignment 2\Manar166-OOP-Assignment-2\SRP\src\SrpLab\SrpLab\obj\Debug\net10.0\SrpLab.sourcelink.json
+D:\Simulation\OOP\Assignment 2\Manar166-OOP-Assignment-2\SRP\src\SrpLab\SrpLab\obj\Debug\net10.0\SrpLab.dll
+D:\Simulation\OOP\Assignment 2\Manar166-OOP-Assignment-2\SRP\src\SrpLab\SrpLab\obj\Debug\net10.0\refint\SrpLab.dll
+D:\Simulation\OOP\Assignment 2\Manar166-OOP-Assignment-2\SRP\src\SrpLab\SrpLab\obj\Debug\net10.0\SrpLab.pdb
+D:\Simulation\OOP\Assignment 2\Manar166-OOP-Assignment-2\SRP\src\SrpLab\SrpLab\obj\Debug\net10.0\ref\SrpLab.dll
+D:\Simulation\OOP\Assignment 2\Manar166-OOP-Assignment-2\SRP\src\SrpLab\SrpLab\obj\Debug\net10.0\SrpLab.csproj.Up2Date

@@ -1,0 +1,13 @@
+D:\Simulation\OOP\Assignment 2\Manar166-OOP-Assignment-2\Inheritance\Liberary.Bussniess\Liberary.Bussniess\obj\Debug\net10.0\Liberary.Bussniess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Simulation\OOP\Assignment 2\Manar166-OOP-Assignment-2\Inheritance\Liberary.Bussniess\Liberary.Bussniess\obj\Debug\net10.0\Liberary.Bussniess.AssemblyInfoInputs.cache
+D:\Simulation\OOP\Assignment 2\Manar166-OOP-Assignment-2\Inheritance\Liberary.Bussniess\Liberary.Bussniess\obj\Debug\net10.0\Liberary.Bussniess.AssemblyInfo.cs
+D:\Simulation\OOP\Assignment 2\Manar166-OOP-Assignment-2\Inheritance\Liberary.Bussniess\Liberary.Bussniess\obj\Debug\net10.0\Liberary.Bussniess.csproj.CoreCompileInputs.cache
+D:\Simulation\OOP\Assignment 2\Manar166-OOP-Assignment-2\Inheritance\Liberary.Bussniess\Liberary.Bussniess\obj\Debug\net10.0\Liberary.Bussniess.sourcelink.json
+D:\Simulation\OOP\Assignment 2\Manar166-OOP-Assignment-2\Inheritance\Liberary.Bussniess\Liberary.Bussniess\bin\Debug\net10.0\Liberary.Bussniess.deps.json
+D:\Simulation\OOP\Assignment 2\Manar166-OOP-Assignment-2\Inheritance\Liberary.Bussniess\Liberary.Bussniess\bin\Debug\net10.0\Liberary.Bussniess.dll
+D:\Simulation\OOP\Assignment 2\Manar166-OOP-Assignment-2\Inheritance\Liberary.Bussniess\Liberary.Bussniess\bin\Debug\net10.0\Liberary.Bussniess.pdb
+D:\Simulation\OOP\Assignment 2\Manar166-OOP-Assignment-2\Inheritance\Liberary.Bussniess\Liberary.Bussniess\obj\Debug\net10.0\Liberary.Bussniess.dll
+D:\Simulation\OOP\Assignment 2\Manar166-OOP-Assignment-2\Inheritance\Liberary.Bussniess\Liberary.Bussniess\obj\Debug\net10.0\refint\Liberary.Bussniess.dll
+D:\Simulation\OOP\Assignment 2\Manar166-OOP-Assignment-2\Inheritance\Liberary.Bussniess\Liberary.Bussniess\obj\Debug\net10.0\Liberary.Bussniess.pdb
+D:\Simulation\OOP\Assignment 2\Manar166-OOP-Assignment-2\Inheritance\Liberary.Bussniess\Liberary.Bussniess\obj\Debug\net10.0\ref\Liberary.Bussniess.dll
+D:\Simulation\OOP\Assignment 2\Manar166-OOP-Assignment-2\Inheritance\Liberary.Bussniess\Liberary.Bussniess\obj\Debug\net10.0\Liberary.AC7EBA4B.Up2Date

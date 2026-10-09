@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Liberary.Runner/1.0.0": {
+        "dependencies": {
+          "Liberary.Bussniess": "1.0.0"
+        },
+        "runtime": {
+          "Liberary.Runner.dll": {}
+        }
+      },
+      "Liberary.Bussniess/1.0.0": {
+        "runtime": {
+          "Liberary.Bussniess.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Liberary.Runner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Liberary.Bussniess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

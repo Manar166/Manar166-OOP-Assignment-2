@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Liberary.Bussniess/Liberary.Bussniess.csproj" />
+  <Project Path="Liberary.Runner/Liberary.Runner.csproj" Id="2ed0c53e-3095-4f1f-bcd9-816cd75aeca4" />
+</Solution>

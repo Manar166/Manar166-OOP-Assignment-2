@@ -1,0 +1,13 @@
+D:\Simulation\OOP\Assignment 2\Manar166-OOP-Assignment-2\DesignPatterns\src\PatternsLab.Runner\PatternsRunner\bin\Debug\net10.0\PatternsLab.deps.json
+D:\Simulation\OOP\Assignment 2\Manar166-OOP-Assignment-2\DesignPatterns\src\PatternsLab.Runner\PatternsRunner\bin\Debug\net10.0\PatternsLab.dll
+D:\Simulation\OOP\Assignment 2\Manar166-OOP-Assignment-2\DesignPatterns\src\PatternsLab.Runner\PatternsRunner\bin\Debug\net10.0\PatternsLab.pdb
+D:\Simulation\OOP\Assignment 2\Manar166-OOP-Assignment-2\DesignPatterns\src\PatternsLab.Runner\PatternsRunner\obj\Debug\net10.0\PatternsLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Simulation\OOP\Assignment 2\Manar166-OOP-Assignment-2\DesignPatterns\src\PatternsLab.Runner\PatternsRunner\obj\Debug\net10.0\PatternsLab.AssemblyInfoInputs.cache
+D:\Simulation\OOP\Assignment 2\Manar166-OOP-Assignment-2\DesignPatterns\src\PatternsLab.Runner\PatternsRunner\obj\Debug\net10.0\PatternsLab.AssemblyInfo.cs
+D:\Simulation\OOP\Assignment 2\Manar166-OOP-Assignment-2\DesignPatterns\src\PatternsLab.Runner\PatternsRunner\obj\Debug\net10.0\PatternsLab.csproj.CoreCompileInputs.cache
+D:\Simulation\OOP\Assignment 2\Manar166-OOP-Assignment-2\DesignPatterns\src\PatternsLab.Runner\PatternsRunner\obj\Debug\net10.0\PatternsLab.sourcelink.json
+D:\Simulation\OOP\Assignment 2\Manar166-OOP-Assignment-2\DesignPatterns\src\PatternsLab.Runner\PatternsRunner\obj\Debug\net10.0\PatternsLab.dll
+D:\Simulation\OOP\Assignment 2\Manar166-OOP-Assignment-2\DesignPatterns\src\PatternsLab.Runner\PatternsRunner\obj\Debug\net10.0\refint\PatternsLab.dll
+D:\Simulation\OOP\Assignment 2\Manar166-OOP-Assignment-2\DesignPatterns\src\PatternsLab.Runner\PatternsRunner\obj\Debug\net10.0\PatternsLab.pdb
+D:\Simulation\OOP\Assignment 2\Manar166-OOP-Assignment-2\DesignPatterns\src\PatternsLab.Runner\PatternsRunner\obj\Debug\net10.0\ref\PatternsLab.dll
+D:\Simulation\OOP\Assignment 2\Manar166-OOP-Assignment-2\DesignPatterns\src\PatternsLab.Runner\PatternsRunner\obj\Debug\net10.0\Patterns.DDEA011B.Up2Date

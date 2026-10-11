@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Simulation\\OOP\\Assignment 2\\Manar166-OOP-Assignment-2\\DesignPatterns\\src\\PatternsLab.Runner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F064673F-1DB0-3761-6B9C-87D066E518A7}|PatternsLab.Runner\\PatternsLab.Runner.csproj|d:\\simulation\\oop\\assignment 2\\manar166-oop-assignment-2\\designpatterns\\src\\patternslab.runner\\patternslab.runner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F064673F-1DB0-3761-6B9C-87D066E518A7}|PatternsLab.Runner\\PatternsLab.Runner.csproj|solutionrelative:patternslab.runner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CA85C5-1712-54C1-C5DD-FC154A6DC3E6}|PatternsRunner\\PatternsLab.csproj|d:\\simulation\\oop\\assignment 2\\manar166-oop-assignment-2\\designpatterns\\src\\patternslab.runner\\patternsrunner\\prototype\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CA85C5-1712-54C1-C5DD-FC154A6DC3E6}|PatternsRunner\\PatternsLab.csproj|solutionrelative:patternsrunner\\prototype\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CA85C5-1712-54C1-C5DD-FC154A6DC3E6}|PatternsRunner\\PatternsLab.csproj|d:\\simulation\\oop\\assignment 2\\manar166-oop-assignment-2\\designpatterns\\src\\patternslab.runner\\patternsrunner\\singletonpattern\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CA85C5-1712-54C1-C5DD-FC154A6DC3E6}|PatternsRunner\\PatternsLab.csproj|solutionrelative:patternsrunner\\singletonpattern\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CA85C5-1712-54C1-C5DD-FC154A6DC3E6}|PatternsRunner\\PatternsLab.csproj|d:\\simulation\\oop\\assignment 2\\manar166-oop-assignment-2\\designpatterns\\src\\patternslab.runner\\patternsrunner\\builderpattern\\courseregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CA85C5-1712-54C1-C5DD-FC154A6DC3E6}|PatternsRunner\\PatternsLab.csproj|solutionrelative:patternsrunner\\builderpattern\\courseregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 2\\Manar166-OOP-Assignment-2\\DesignPatterns\\src\\PatternsLab.Runner\\PatternsRunner\\ProtoType\\Enemy.cs",
+              "RelativeDocumentMoniker": "PatternsRunner\\ProtoType\\Enemy.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 2\\Manar166-OOP-Assignment-2\\DesignPatterns\\src\\PatternsLab.Runner\\PatternsRunner\\ProtoType\\Enemy.cs",
+              "RelativeToolTip": "PatternsRunner\\ProtoType\\Enemy.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T16:40:12.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppConfig.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 2\\Manar166-OOP-Assignment-2\\DesignPatterns\\src\\PatternsLab.Runner\\PatternsRunner\\SingletonPattern\\AppConfig.cs",
+              "RelativeDocumentMoniker": "PatternsRunner\\SingletonPattern\\AppConfig.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 2\\Manar166-OOP-Assignment-2\\DesignPatterns\\src\\PatternsLab.Runner\\PatternsRunner\\SingletonPattern\\AppConfig.cs",
+              "RelativeToolTip": "PatternsRunner\\SingletonPattern\\AppConfig.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvyUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T15:07:13.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseRegistration.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 2\\Manar166-OOP-Assignment-2\\DesignPatterns\\src\\PatternsLab.Runner\\PatternsRunner\\BuilderPattern\\CourseRegistration.cs",
+              "RelativeDocumentMoniker": "PatternsRunner\\BuilderPattern\\CourseRegistration.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 2\\Manar166-OOP-Assignment-2\\DesignPatterns\\src\\PatternsLab.Runner\\PatternsRunner\\BuilderPattern\\CourseRegistration.cs",
+              "RelativeToolTip": "PatternsRunner\\BuilderPattern\\CourseRegistration.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAIAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T12:59:23.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Simulation\\OOP\\Assignment 2\\Manar166-OOP-Assignment-2\\DesignPatterns\\src\\PatternsLab.Runner\\PatternsLab.Runner\\Program.cs",
+              "RelativeDocumentMoniker": "PatternsLab.Runner\\Program.cs",
+              "ToolTip": "D:\\Simulation\\OOP\\Assignment 2\\Manar166-OOP-Assignment-2\\DesignPatterns\\src\\PatternsLab.Runner\\PatternsLab.Runner\\Program.cs",
+              "RelativeToolTip": "PatternsLab.Runner\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAEAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T12:57:15.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

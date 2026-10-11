@@ -1,5 +1,7 @@
 ﻿using PatternsLab.Builder;
+using PatternsLab.ProtoType;
 using PatternsLab.SingletonPattern;
+using System.Diagnostics;
 
 namespace PatternsLab.Runner
 {
@@ -29,6 +31,38 @@ namespace PatternsLab.Runner
                 Console.WriteLine(RegistrationCallSites.CreateLiveStudent());
                 Console.WriteLine(RegistrationCallSites.CreateVideosOnly());
 
+
+                Console.WriteLine("\n=== PROTOTYPE: AFTER ===\n");
+
+
+
+                var sw = Stopwatch.StartNew();
+              
+                var army = new List<Enemy>();
+                var orcOriginal = new Orc();
+                for (int i = 1; i <= 5; i++)
+                {
+                    var orc = orcOriginal.Clone();
+                    orc.Name = $"Orc-{i}";
+                    army.Add(orc);
+                }
+                Console.WriteLine($"Created 5 orcs in {sw.ElapsedMilliseconds} ms\n");
+
+
+                Enemy original = orcOriginal.Clone();
+                original.Name = "Boss Orc";
+                Enemy copy = EnemyCopyHelper.CopyEnemy(original);
+
+                Console.WriteLine($"\nOriginal model id: {original.ModelId}");
+                Console.WriteLine($"Copy model id:     {copy.ModelId}");
+
+                copy.Weapon.Damage = 999;
+                Console.WriteLine($"\nWe changed the COPY's weapon damage to 999.");
+                Console.WriteLine($"Original's weapon damage is now: {original.Weapon.Damage}");
+
+                copy.Abilities.Add("Fire Breath");
+                Console.WriteLine($"Original abilities: {string.Join(", ", original.Abilities)}");
+                Console.WriteLine($"copy abilities: {string.Join(", ", copy.Abilities)}");
 
 
             }

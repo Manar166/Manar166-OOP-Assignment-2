@@ -4,11 +4,11 @@ using System.Text;
 
 namespace SrpLab.SupportTicket
 {
-    internal class SlaCalculator
+    public class SlaCalculator
     {
-        public DateTimeOffset OpenedAt { get; }
-        public string Priority { get; private set; } = "P3";
-        public DateTimeOffset SlaDeadline()
+       
+        
+        public DateTimeOffset SlaDeadline(string Priority, DateTimeOffset OpenedAt)
         {
             // Operational SLA policy — different stakeholders than reply wording.
             var hours = Priority switch
@@ -20,7 +20,7 @@ namespace SrpLab.SupportTicket
             return OpenedAt.AddHours(hours);
         }
 
-        public bool IsBreached(DateTimeOffset now) => now > SlaDeadline();
+        public bool IsBreached(DateTimeOffset now,string Priority, DateTimeOffset OpenedAt) => now > SlaDeadline(Priority, OpenedAt);
 
     }
 }

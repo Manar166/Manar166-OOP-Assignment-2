@@ -9,12 +9,12 @@ namespace SrpLab.CheckoutBasket
         public bool GiftWrap { get; private set; }
         public Checkout checkoutBasket { get; }
 
-        public CheckoutCalculator CheckoutCalculator { get; }
-        public string GiftMessageCard(string fromName)
+       // public CheckoutCalculator CheckoutCalculator { get; }
+        public string GiftMessageCard(string fromName,decimal grandTotal)
         {
             // Customer-facing copy will change with marketing, not with totals.
             var items = string.Join(", ", checkoutBasket.Lines.Select(l => l.Sku));
-            return $"Dear friend,\nA gift from {fromName} awaits ({items}).\nTotal surprise value: {CheckoutCalculator.GrandTotal():C}\n";
+            return $"Dear friend,\nA gift from {fromName} awaits ({items}).\nTotal surprise value: {grandTotal:C}\n";
         }
 
         public void EnableGiftWrap() => GiftWrap = true;

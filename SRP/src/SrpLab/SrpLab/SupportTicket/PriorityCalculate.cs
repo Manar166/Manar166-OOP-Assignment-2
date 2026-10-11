@@ -6,24 +6,20 @@ namespace SrpLab.SupportTicket
 {
     public class PriorityCalculate
     {
-        public PriorityCalculate(SupportTickets ticket, SlaCalculator slaCalculator)
-        {
-            Ticket = ticket;
-            SlaCalculator = slaCalculator;
-        }
-
-        public SupportTickets Ticket { get; }
-        public SlaCalculator SlaCalculator { get; }
-        public string RecalculatePriorityFromText()
+  
+        
+        public string RecalculatePriorityFromText(string subject ,string body)
         {
             // Keyword heuristics will churn with support playbooks; SLA math will not.
-            var blob = (Ticket.Subject + " " + Ticket.Body).ToLowerInvariant();
+            var blob = (subject + " " + body).ToLowerInvariant();
             if (blob.Contains("down") || blob.Contains("outage") || blob.Contains("cannot login"))
-               return "P1";
+                return "P1";
             else if (blob.Contains("urgent") || blob.Contains("asap") || blob.Contains("blocked"))
-                return"P2";
+                return "P2";
             else
-               return "P3";
+                return "P3";
         }
+
+        
     }
 }

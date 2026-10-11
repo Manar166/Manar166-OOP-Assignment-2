@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PatternsLab.Runner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+438b0a1cdd2c5b8fc53362702777270402db7a75")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7be2c07c3c401565e6ea55604302b45876d0e0d")]
 [assembly: System.Reflection.AssemblyProductAttribute("PatternsLab.Runner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PatternsLab.Runner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

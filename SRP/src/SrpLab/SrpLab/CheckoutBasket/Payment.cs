@@ -7,11 +7,11 @@ namespace SrpLab.CheckoutBasket
 {
     public class Payment
     {
-        public string AuthorizePaymentStub(string cardLast4 ,CheckoutCalculator checkoutCalc,Checkout checkout)
+        public string AuthorizePaymentStub(string cardLast4 ,decimal grandTotal,Checkout checkout)
         {
             
             // Pretends to talk to a gateway — auth scheme changes independently of cart rules.
-            var payload = $"{checkoutCalc.GrandTotal():0.00}|{cardLast4}|{checkout.Lines.Count}";
+            var payload = $"{grandTotal:0.00}|{cardLast4}|{checkout.Lines.Count}";
             var hash = payload.GetHashCode();
             return $"AUTH-{Math.Abs(hash):X8}";
         }
